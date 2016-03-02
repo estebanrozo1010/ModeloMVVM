@@ -1,2 +1,1 @@
-# ModeloMVVM
-ejemplo
+# generador
